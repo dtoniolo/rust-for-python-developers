@@ -1,0 +1,6 @@
+[book]
+authors = ["dtoniolo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust for Python Developers"
